@@ -10,3 +10,8 @@ Includes code for handling incoming serial communications which also handles tog
 This is a sketch of the functionality required for handling the custom H-bridge in the Impressio project.
 Includes code for toggling switches on the H-bridge in order to drive the motor on the Winch one way or the other.
 Includes code for handling incoming serial communications from Raspberry Pi which tells when to set the motor on or off.
+
+
+## PES-Assignment-1-main.zip
+This is from an assignment which I did in a class called programming embedded systems.
+Includes basic functions for converting between types in C.
